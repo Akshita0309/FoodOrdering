@@ -1,0 +1,6 @@
+com\justeat\AuthControllerTests.class
+com\justeat\CustomerPreferencesAndSecurityTests.class
+com\justeat\OrderControllerTests.class
+com\justeat\RestaurantControllerTests.class
+com\justeat\MenuControllerTests.class
+com\justeat\AbstractIntegrationTest.class

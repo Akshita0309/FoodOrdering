@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.justeat.AuthControllerTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.59 s -- in com.justeat.AuthControllerTests
